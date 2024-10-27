@@ -1,3 +1,4 @@
+// it will calculate 1/1! + 2/2! + 3/3! + ........
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
