@@ -18,8 +18,7 @@ int main()
     printf("Enter n: ");
     scanf("%f", &n);
     for(float i=1;i<=n;i++){
-    
-      sum = sum + i/(calc(i));  
+        sum = sum + i/(calc(i));  
     }
     printf("Sum upto %f = %f", n, sum);
 }
